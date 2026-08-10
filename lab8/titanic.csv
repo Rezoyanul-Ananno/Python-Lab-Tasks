@@ -1,0 +1,11 @@
+PassengerId,Survived,Name,Age,Sex,Fare,Embarked
+1,1,John Smith,22.0,male,7.25,S
+2,0,Mary Jones,38.0,female,71.28,C
+3,1,Robert Brown,,female,7.92,S
+4,1,Anna Wilson,35.0,female,53.1,
+5,0,David Lee,200.0,male,8.05,S
+5,0,David Lee,200.0,male,8.05,S
+6,1,Sarah Taylor,27.0,female,11.13,S
+7,0,Michael Clark,14.0,male,30.07,C
+8,1,Emma Davis,,female,16.7,Q
+9,0,Daniel White,45.0,male,20.0,S
